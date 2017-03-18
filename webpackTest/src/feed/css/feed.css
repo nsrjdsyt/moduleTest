@@ -1,0 +1,12 @@
+/*import'./test.css'*/
+
+body{
+    background: #e8e8e8;
+}
+div{
+    border: 1px solid blue;
+}
+
+p{
+    display: flex;
+}
