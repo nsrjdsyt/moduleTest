@@ -1,4 +1,4 @@
-# art-template-loader 使用测试
+# art-template-loader 使用测试  
 - 用法配置：
 
       var testTpl  = require("./test.tpl");
