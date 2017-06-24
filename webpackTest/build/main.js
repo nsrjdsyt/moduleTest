@@ -234,7 +234,7 @@ module.exports = function($data,$filename
 $out+=$escape(name);
 $out+='</div>\r\n<p class="card_valid_date">有效期至 ';
 $out+=$escape($helpers. dateFormat(time , 'yyyy.MM.dd hh:mm'));
-$out+='</p>';
+$out+='</p>  ';
 return new String($out);
 }
 
