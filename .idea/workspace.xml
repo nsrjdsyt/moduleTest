@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art-template-loader" afterPath="$PROJECT_DIR$/art-template-loader" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack-demos" afterPath="$PROJECT_DIR$/webpack-demos" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack_learn" afterPath="$PROJECT_DIR$/webpack_learn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="moduleTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -244,12 +243,12 @@
       <updated>1489755716432</updated>
       <workItem from="1489755723654" duration="13651000" />
       <workItem from="1489822068223" duration="2037000" />
-      <workItem from="1498269004415" duration="3760000" />
+      <workItem from="1498269004415" duration="4033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19448000" />
+    <option name="totallyTimeSpent" value="19721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
