@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb143857-83f5-49f4-b5a0-4c01ebcfedb6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art-template-loader" afterPath="$PROJECT_DIR$/art-template-loader" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack-demos" afterPath="$PROJECT_DIR$/webpack-demos" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack_learn" afterPath="$PROJECT_DIR$/webpack_learn" />
-    </list>
+   
     <ignored path="moduleTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
