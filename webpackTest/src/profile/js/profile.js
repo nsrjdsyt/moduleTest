@@ -1,6 +1,9 @@
 /**
  * Created by Administrator on 2017/3/17.
  */
+//require("../css/profile.css");
+//require("../css/sass.scss");
+
 var template = require('art-template/dist/template');
 
 var profileTpl = require("../tpl/profile.tpl");

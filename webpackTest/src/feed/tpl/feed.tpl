@@ -1,3 +1,3 @@
 <div>
-i am {{name}} tpl
+i am {{name + age}} tpl
 </div>
